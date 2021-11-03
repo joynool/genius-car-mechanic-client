@@ -1,0 +1,44 @@
+[
+{
+    "id": 1,
+    "name": "replace Tire",
+    "price": 2000,
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Rem provident nesciunt ducimus obcaecati harum perspiciatis iusto laboriosam dignissimos, vero voluptates.",
+    "img": "https://i.ibb.co/VQmBFmr/mechanic-2.jpg"
+},
+{
+    "id": 2,
+    "name": "brake repairing",
+    "price": 180,
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Rem provident nesciunt ducimus obcaecati harum perspiciatis iusto laboriosam dignissimos, vero voluptates.",
+    "img": "https://i.ibb.co/DKcdqxm/mechanic-3.jpg"
+},
+{
+    "id": 3,
+    "name": "oil replace",
+    "price": 200,
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Rem provident nesciunt ducimus obcaecati harum perspiciatis iusto laboriosam dignissimos, vero voluptates.",
+    "img": "https://i.ibb.co/C8TrWKm/mechanic-4.jpg"
+},
+{
+    "id": 4,
+    "name": "gear repairing",
+    "price": 1500,
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Rem provident nesciunt ducimus obcaecati harum perspiciatis iusto laboriosam dignissimos, vero voluptates.",
+    "img": "https://i.ibb.co/LRCHRqf/mechanic-5.jpg"
+},
+{
+    "id": 5,
+    "name": "engine repairing",
+    "price": 5000,
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Rem provident nesciunt ducimus obcaecati harum perspiciatis iusto laboriosam dignissimos, vero voluptates.",
+    "img": "https://i.ibb.co/ZhkLM0R/mechanic-6.jpg"
+},
+{
+    "id": 6,
+    "name": "car wash",
+    "price": 300,
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Rem provident nesciunt ducimus obcaecati harum perspiciatis iusto laboriosam dignissimos, vero voluptates.",
+    "img": "https://i.ibb.co/1LkMS1X/mechanic-1.jpg"
+}
+]
